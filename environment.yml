@@ -1,0 +1,11 @@
+name: tarea_house_price
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - seaborn
+  - matplotlib
+  - scikit-learn
+  - scipy
+  - joblib
+  - jupyter
